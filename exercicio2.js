@@ -21,3 +21,7 @@ if( idade === idade1){
    console.log(nome + " é mais novo/a do que " + nome1);
 }
 
+
+
+
+
